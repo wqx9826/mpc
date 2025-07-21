@@ -7,7 +7,10 @@ ubuntu 20
 
 
 2、使用的库
+```angular2html
   eigen3
   osqp
   osqp-eigen
   matplotlibcpp.h
+```  
+
